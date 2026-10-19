@@ -38,7 +38,7 @@ Standard banner separated from calculator keys. An unavailable ad does not block
 
 ## Download and updates | دریافت و به‌روزرسانی
 
-Android APK, version **1.0.2**. Package: `com.sinatools.calculator`.
+Android APK, version **1.0.4**. Package: `com.sinatools.calculator`.
 For updates, install over the existing app to preserve its local data. Do not uninstall first.
 
 برای حفظ اطلاعات، نسخه جدید را روی نسخه قبلی نصب کنید؛ ابتدا برنامه را حذف نکنید.
