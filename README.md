@@ -46,3 +46,26 @@ For updates, install over the existing app to preserve its local data. Do not un
 [Privacy / حریم خصوصی](PRIVACY.md)
 
 This repository distributes the signed app and user guide. Private signing keys and local build credentials are not published.
+
+<!-- STORE-GALLERY -->
+
+## Screenshots | تصاویر برنامه
+
+App screens in English and Persian; sample content is used where needed.
+
+### English
+
+<img src="screenshots/en/01-calculator.png" width="240" alt="Calculator en 01-calculator" />
+<img src="screenshots/en/02-scientific.png" width="240" alt="Calculator en 02-scientific" />
+<img src="screenshots/en/03-history.png" width="240" alt="Calculator en 03-history" />
+<img src="screenshots/en/04-settings.png" width="240" alt="Calculator en 04-settings" />
+<img src="screenshots/en/05-error-message.png" width="240" alt="Calculator en 05-error-message" />
+
+### فارسی
+
+<img src="screenshots/fa/01-calculator.png" width="240" alt="Calculator fa 01-calculator" />
+<img src="screenshots/fa/02-scientific.png" width="240" alt="Calculator fa 02-scientific" />
+<img src="screenshots/fa/03-history.png" width="240" alt="Calculator fa 03-history" />
+<img src="screenshots/fa/04-settings.png" width="240" alt="Calculator fa 04-settings" />
+<img src="screenshots/fa/05-error-message.png" width="240" alt="Calculator fa 05-error-message" />
+
